@@ -9,7 +9,7 @@ struct Student {
     char name[50];
     int age;
     float marks;
-};
+}
 
 struct Student students[MAX];
 int count = 0;
